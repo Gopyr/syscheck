@@ -1,5 +1,5 @@
 # SysCheck
-Local system health checker.
+Cek kesehatan sistem lokal dari terminal.
 
 ## Tujuan
 - Cek uptime, load, RAM, disk, dan jumlah proses
